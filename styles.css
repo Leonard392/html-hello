@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #E93448;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+
+
+.main-container{
+    text-align: center;
+    margin: 0 auto;  
+}
+
+.post{
+  margin: auto;
+  margin-top: 80px;
+  width: 700px;
+  border: 2px solid black;
+  border-radius: 2%;
+  background-color: white;
+}
+
+.post-header{
+    display: flex;
+}
+
+.title{
+    width: 90%;
+    text-align: left;
+    padding-left: 10px;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+}
+
+.text{
+    text-align: left;    
+    padding-left: 10px;
+}
